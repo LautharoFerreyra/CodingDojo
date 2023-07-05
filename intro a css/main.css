@@ -1,0 +1,40 @@
+
+
+/* *{ 
+    color: red; ESTE ES UNIVERSAL PARA TODA LA PAGINA 
+} */
+
+/* h1{ 
+     color: red; ESTE ES PARA UN ELEMENTO COMO h1,h2,p, button... 
+} */
+
+/* .titleH2{ 
+    color: red; ESTE SE USA PRA CAMBIARLOS LOS ELEMENTOS QUE TIENEN UNA CLASE/ NOMBRE IGUALES 
+} */
+
+/* #hello{ 
+    color: red; CON ESTO ES IDENICAR UN ELEMENTO UNICO, ES UNICO POR CADA ELEMENTO
+} */
+
+/* [atributo="si"]{ 
+    color: blue; POR ATRIBUTO 
+} */
+
+/* h2  p{ 
+    color: blue;
+}
+
+h2  b{ 
+    color: red;
+} */
+
+
+/* ESPICIFIDAD */
+/* !importan
+Estilo de lineas 
+identificadores 
+clese/ pseudo-clases/ atributos 
+elentos / pseudo-elementos  */
+
+
+
